@@ -10,7 +10,7 @@ I am a final-year student at Birla Institute of Technology, Mesra, Patna Campus 
 
 • Java
 
-•HTML, CSS, JavaScript,PHP,Bootstrap.
+•HTML, CSS, JavaScript,PHP,MYSQL,REACTJS,Bootstrap.
 
  📫 How to reach me:
  
